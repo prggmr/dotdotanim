@@ -1,6 +1,10 @@
 dotdotanim
 ==========
 
+Example
+
+http://jsfiddle.net/63rHc/
+
 Simple ... JS animation.
 
 Creates a "." ".." "..." animation transition for a simple loader that doesn't spin.
