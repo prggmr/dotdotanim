@@ -1,0 +1,4 @@
+dotdotanim
+==========
+
+Simple ... JS animation.
