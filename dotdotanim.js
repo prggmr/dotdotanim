@@ -2,6 +2,10 @@
  * Dotdotanim.
  * 
  * Copyright 2014 Nickolas Whiting <prggmr@gmail.com>
+ * 
+ * Usage/Example
+ * 
+ * http://jsfiddle.net/63rHc/
  */
 $.fn.dotdotanim = function(string, interval) {
     if (typeof interval === 'undefined') interval = 50;
